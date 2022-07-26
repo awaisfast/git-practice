@@ -1,8 +1,5 @@
 main
 feature
-<<<<<<< HEAD
 feature -> Header
 feature -> Body
-=======
 feature -> footer
->>>>>>> footer
